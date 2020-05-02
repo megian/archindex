@@ -1,0 +1,13 @@
+---
+- id: d3f3011c-dcf9-4eeb-ad1c-53500ab4c6f3
+  name: Live Migration
+- id: e21c5b4f-1bfc-4d5e-8353-0be807924a14
+  name: Container
+  products:
+    - docker
+    - containerd
+    - cri-o
+- id: f3d29caa-f6d8-42f3-a946-b676a6f6f3b2
+  name: Virtual Machine
+- id: 2625da1d-16c3-4347-a9ab-889e20c82244
+  name: CPU

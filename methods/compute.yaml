@@ -1,0 +1,11 @@
+---
+- id: 4ae3461d-8e17-4cc5-85a1-c6919238373f
+  name: Application virtualisation
+  technique:
+    - sandbox
+- id: 999bbc79-d566-40f9-9de0-7426a604ecd1
+  name: Operating system virtualisation
+  technique:
+    - container
+- id: e5210f5f-53b9-4ac8-97a1-3a609aebb660
+  name: Hardware virtualisation

@@ -1,0 +1,13 @@
+= Architecture Index
+
+The following topics...
+* techniques
+* skills
+* methods
+* processes
+
+producing...
+* products
+* services
+
+Products and services are combined in building blocks and result in a final solutions.

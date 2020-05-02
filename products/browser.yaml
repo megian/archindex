@@ -1,0 +1,12 @@
+---
+- id: 306b62dc-fa34-4e86-b27a-b912666dd6f1
+  name: Firefox
+  vendor: Mozilla
+  license: Mozilla Public License Version 2.0
+  cost: 0
+  link: https://www.mozilla.org/de/firefox/
+- id: b5463584-8466-41f2-a719-1c2d2103b94f
+  name: Chrome
+  vendor: Google
+  link: https://www.google.de/chrome/
+  cost: 0

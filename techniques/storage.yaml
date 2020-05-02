@@ -1,0 +1,7 @@
+---
+- id: 6f6623ec-09cd-460d-a092-ee240662c43e
+  name: Block Storage
+- id: ba310f8f-da72-4c4b-b532-8f5ed6a790f7
+  name: Object Storage
+- id: 9c2fed03-45f2-425c-936a-b53c97fcc722
+  name: File Storage

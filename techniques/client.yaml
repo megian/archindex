@@ -1,0 +1,6 @@
+---
+- id: 1c49c55b-e407-4ca2-807a-edd8697ee5ea
+  name: Browser
+  products:
+  - firefox
+  - chrome
