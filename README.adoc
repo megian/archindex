@@ -1,12 +1,15 @@
 = Architecture Index
 
 The following topics...
+
 * techniques
 * skills
 * methods
 * processes
 
+
 producing...
+
 * products
 * services
 
